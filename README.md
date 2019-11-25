@@ -15,5 +15,3 @@
  Made using Fritzing
  <img src="img/ESP8266 wether_bb.png" width="700">
  <img src="img/ESP8266 wether_schem.png" width="700">
-
-There are 
