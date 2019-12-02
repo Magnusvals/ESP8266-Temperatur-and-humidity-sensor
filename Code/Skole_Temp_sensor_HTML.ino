@@ -1,3 +1,8 @@
+// Code For ESP8266 + DHT22 Temperatur and Humidity sensor colection using a simple HTML page.
+// Used Exampel code from Adafruit in this sketch.
+
+
+
 /*********
   Rui Santos
   Complete project details at https://randomnerdtutorials.com
@@ -10,8 +15,8 @@
 #include <DHT_U.h>
 
 // Replace with your network credentials
-const char* ssid     = "3DE-3315";
-const char* password = "Kuben3de";
+const char* ssid     = "YOUR_SSID_HERE";
+const char* password = "YOUR_PASSWORD_HERE";
 
 // Set web server port number to 80
 WiFiServer server(80);
