@@ -2,6 +2,8 @@
 
 To know how to setup the ESP8266 you can see how i did it in my other Git [Here](https://github.com/Magnusvals/ESP8266-Web-controlled-RGB-ledstrip-using-BLYNK#how-to-install-esp-library-in-arduino-ide).
 
+You must put in your WiFi SSID and password for the code to work. If using Blynk, see my other Git [Here](https://github.com/Magnusvals/ESP8266-Web-controlled-RGB-ledstrip-using-BLYNK#steps-for-starting-using-blynk).
+
 <img src="img/20191120_131644.jpg" width="700">
  
  In this project I will make a temperatur and humidity sensor with the DHT22 and NodeMCU ESP8266 with Blynk and a normal HTML web page.
